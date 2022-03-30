@@ -4,6 +4,7 @@ description: This resource contains the information related to multiplicative gr
   of integers modulo p.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-701-algebra-i-fall-2010/9148496b181b23a244cf4cc9f172305b_MIT18_701F10_cyclic12.pdf
 file_type: application/pdf
+parent_uid: c183fb3e-295a-9fc2-9814-10fdb54f42a0
 resourcetype: Document
 title: MIT18_701F10_cyclic12.pdf
 uid: 9148496b-181b-23a2-44cf-4cc9f172305b
